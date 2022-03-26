@@ -1,0 +1,54 @@
+.formButtonActive {
+  margin-top:50px;
+  margin-bottom:20px;
+  margin-right: 10px;
+  margin-left:10px;
+  border: 0px solid red;
+  border-bottom: 3px solid purple;
+  background-color: white;
+  color: purple;
+}
+.formButtonDeactive {
+  margin-top:50px;
+  margin-bottom:20px;
+  margin-right: 10px;
+  margin-left:10px;
+  border: 0px solid red;
+  background-color: white;
+  color: gray;
+}
+.formButton {
+  margin-top:50px;
+  margin-bottom:20px;
+}
+.inputForm {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid #151515;
+  border-radius: 40px;
+  box-sizing: border-box;
+}
+.registrationForm {
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+  width: 500px;
+  height:600px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  font-size:20px;
+}
+
+.buttonStyle {
+  border-radius: 50px;
+  width: 300px;
+  height: 50px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  background-color: white;
+  color: purple;
+
+}
